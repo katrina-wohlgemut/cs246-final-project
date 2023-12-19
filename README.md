@@ -6,7 +6,7 @@ This project was completed independently as the final project for CS246 at the U
 
 This is a game similar to Tetris. Full details can be found in biquadris.pdf.
 ## Code
-The game was written in C++. The design plan can be found in uml.pdf.
+The game was written in C++.
 ### Design Goals
 * Minimize coupling
 * Maximize cohesion
